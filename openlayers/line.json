@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl singajaya"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.48844570282631, -6.954399088090511],
+          [107.48873469979799, -6.954648863438251]
+        ],
+        "type": "LineString"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl mekarmukti"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.59351354198236, -6.984906858274883],
+          [107.48548094577541, -6.95426848411212],
+          [107.46627515089557, -6.926011323012901]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl tanjungjaya"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44021014355678, -6.928054066206158],
+          [107.41277329372701, -6.991374703185642]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nanggerang"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.46970475712408, -7.015883618071626],
+          [107.4138021755947, -7.025414514570926]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl mekarsari"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.39802598694337, -7.008054521399686],
+          [107.37607650707741, -6.9675453587944105]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl buniaraga"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.2892294548389, -7.035194141360449],
+          [107.3809326820529, -7.051587462246999]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl sukaresmi"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.28979904010174, -6.942476230967088],
+          [107.34106171369888, -6.859353786337934]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl sukamaju"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.41169028621192, -7.055544383862994],
+          [107.42649950303024, -7.119415711408735],
+          [107.51136770709888, -7.118850517302164]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl pananjung"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.49780973840251, -6.982269405143114],
+          [107.46669303369731, -6.9727028665457595]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl cirangrang"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.37605584385909, -7.023054899857726],
+          [107.44687875354094, -6.973743309834674]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl cipongporang"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.36212518783083, -7.021163083020824],
+          [107.318580438411, -7.015288726086183],
+          [107.39256423596845, -6.903661931893566]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl suekarno hatta"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.66440117992431, -6.937656633054985],
+          [107.73753944836722, -6.93471893986171],
+          [107.67201094195974, -6.894848438243713]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cibabat"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.6284661925398, -6.918351456918373],
+          [107.55363686586645, -6.87428234039082]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl cikande"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.39587231911736, -6.899008673086058],
+          [107.47653891229811, -6.845462108088071]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl girimukti"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.4057211473542, -6.922753475518903],
+          [107.49811253605588, -6.858500087712429]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl margamulya"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.40855145558231, -7.140061359528403],
+          [107.55662902040496, -7.152365615032181]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl cirawamekar"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.4814960687965, -6.9062182510709675],
+          [107.4391881931312, -6.7990314552572215]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl parungserab"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.5341294653748, -7.054531373471846],
+          [107.5349298621079, -7.0539610127513015]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl tanjungjaya"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.47744096136148, -6.927570886534866],
+          [107.47971835041966, -6.9248550273121054]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl raya soreang"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.49645967901807, -7.037174796381905],
+          [107.50326757285245, -7.033500134788028]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl tol seroja"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.53143118499247, -7.012598943919201],
+          [107.53250282713105, -7.0092203564345965]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl banjaran"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.57388535938617, -7.045491957773834],
+          [107.56602718883335, -7.043989590710623]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl rawabogo"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.46308698162613, -7.068864529992723],
+          [107.41058641673885, -7.035294556968793]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl citeureup"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.54782566906334, -6.872468955594229],
+          [107.62755427860282, -6.841736905603739]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl rasa bandung soreang"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.54839889313723, -7.015983640298444],
+          [107.55199032076752, -7.004995841012487]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.54383031542454, -7.015453646157354],
+          [107.54369353233113, -7.015305545370737],
+          [107.54349279869865, -7.015224442539363],
+          [107.54324410216412, -7.01516449695923],
+          [107.54297053597583, -7.015139813482506]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl cibaligo"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.54972713731348, -6.915475642263061],
+          [107.55600999581321, -6.8990011443322175]
+        ],
+        "type": "LineString"
+      },
+      "id": 145
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl mekarjaya"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44837473994545, -6.917707963146739],
+          [107.45121223937332, -6.918199272699297]
+        ],
+        "type": "LineString"
+      },
+      "id": 145
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl raya cipanji"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.47997631946788, -6.925103904670749],
+          [107.48372668615815, -6.927462187606125]
+        ],
+        "type": "LineString"
+      },
+      "id": 140
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [107.48100540709316, -6.925357592992796],
+          [107.48132867738639, -6.924828682610766]
+        ],
+        "type": "LineString"
+      },
+      "id": 141
+    }
+  ]
+}

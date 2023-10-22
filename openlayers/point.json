@@ -1,0 +1,665 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wick sulaiman"
+      },
+      "geometry": {
+        "coordinates": [107.57061615394639, -6.985334822513053],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "baleendah"
+      },
+      "geometry": {
+        "coordinates": [107.62383284208039, -7.020005211356079],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "alfamart"
+      },
+      "geometry": {
+        "coordinates": [107.54159416856646, -7.000618601452999],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rawabogo"
+      },
+      "geometry": {
+        "coordinates": [107.45178495505854, -7.0574524407970785],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "iga bakar"
+      },
+      "geometry": {
+        "coordinates": [107.55483354746491, -6.96500733089789],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rumah tiga"
+      },
+      "geometry": {
+        "coordinates": [107.550033137372, -7.00506911061899],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rsud soreang"
+      },
+      "geometry": {
+        "coordinates": [107.51701846339756, -7.026169066840268],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "karamatmulya"
+      },
+      "geometry": {
+        "coordinates": [107.51753385326737, -7.040924039822954],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "masjid agung"
+      },
+      "geometry": {
+        "coordinates": [107.5160721611536, -7.026792542004841],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "stasuin soreang"
+      },
+      "geometry": {
+        "coordinates": [107.51941599601935, -7.026032471962964],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rs lanud sulaiman"
+      },
+      "geometry": {
+        "coordinates": [107.5643187519596, -6.983427074577975],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pertamina"
+      },
+      "geometry": {
+        "coordinates": [107.57462137787758, -6.970223848047283],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pemakaman tni"
+      },
+      "geometry": {
+        "coordinates": [107.55992472010144, -6.982604429718705],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pt aero"
+      },
+      "geometry": {
+        "coordinates": [107.54555220855741, -6.995450491055962],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rumah empat"
+      },
+      "geometry": {
+        "coordinates": [107.54990105283679, -7.005075731759405],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rumah satu"
+      },
+      "geometry": {
+        "coordinates": [107.54992106564413, -7.004983035789934],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rumah dua"
+      },
+      "geometry": {
+        "coordinates": [107.54999844850511, -7.004951254310257],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "spbu"
+      },
+      "geometry": {
+        "coordinates": [107.54486786103172, -7.005763156592678],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "indomart"
+      },
+      "geometry": {
+        "coordinates": [107.53712890501828, -7.003573494915514],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "alfamidi"
+      },
+      "geometry": {
+        "coordinates": [107.54133105307977, -7.004129600442269],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "minimarket"
+      },
+      "geometry": {
+        "coordinates": [107.53380220446928, -7.006632067107219],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "parungserab"
+      },
+      "geometry": {
+        "coordinates": [107.53567572836289, -7.012776214807587],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sangkanhurip"
+      },
+      "geometry": {
+        "coordinates": [107.556467480979, -6.999267448339765],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jl raya soreang"
+      },
+      "geometry": {
+        "coordinates": [107.54880736159396, -7.016034552120573],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "stadion si jalak harupat"
+      },
+      "geometry": {
+        "coordinates": [107.53165180547256, -6.991581136731369],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ramayana"
+      },
+      "geometry": {
+        "coordinates": [107.49700431454505, -6.98247470042935],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cihideung"
+      },
+      "geometry": {
+        "coordinates": [107.55054062451558, -7.0258625972586515],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "karyamukti"
+      },
+      "geometry": {
+        "coordinates": [107.47887104826401, -7.030254726964884],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "soreang"
+      },
+      "geometry": {
+        "coordinates": [107.52916929533944, -7.037609192425705],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sukamulya"
+      },
+      "geometry": {
+        "coordinates": [107.49937890893898, -7.005722544710579],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sadu"
+      },
+      "geometry": {
+        "coordinates": [107.46893611624972, -6.99328348104298],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "situwangi"
+      },
+      "geometry": {
+        "coordinates": [107.50691774573266, -6.966248828929125],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " kamasan"
+      },
+      "geometry": {
+        "coordinates": [107.572567099877, -7.048904967362745],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batulayang"
+      },
+      "geometry": {
+        "coordinates": [107.4649089911677, -6.970749351506157],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bandung indah golf"
+      },
+      "geometry": {
+        "coordinates": [107.5934835085784, -6.98377620795921],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "langorsari"
+      },
+      "geometry": {
+        "coordinates": [107.5959442653492, -7.028553217121612],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rancamulya"
+      },
+      "geometry": {
+        "coordinates": [107.59819995905548, -7.000466323061801],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kindangpananjung"
+      },
+      "geometry": {
+        "coordinates": [107.48356970616277, -6.983369124535955],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rancatungku"
+      },
+      "geometry": {
+        "coordinates": [107.58466579681743, -7.014713510028088],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bojong manggu"
+      },
+      "geometry": {
+        "coordinates": [107.6084531122649, -7.046462814387169],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " Jalan Tol Padaleunyi"
+      },
+      "geometry": {
+        "coordinates": [107.61665563483382, -6.962607400583423],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "panyirapan "
+      },
+      "geometry": {
+        "coordinates": [107.51870918717395, -7.0531946858046695],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rancapangung"
+      },
+      "geometry": {
+        "coordinates": [107.44087844802579, -6.985231203053971],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cibodas"
+      },
+      "geometry": {
+        "coordinates": [107.51897010748263, -6.990348039074888],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pabrik dua"
+      },
+      "geometry": {
+        "coordinates": [107.55180294135494, -7.008321998153193],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pabrik tiga"
+      },
+      "geometry": {
+        "coordinates": [107.55155154126345, -7.007661498961525],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rumah penduduk"
+      },
+      "geometry": {
+        "coordinates": [107.5498952583136, -7.007544076785976],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "smkn 1 katapang"
+      },
+      "geometry": {
+        "coordinates": [107.54757350453349, -7.008997174136809],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sd at taqwim katapang"
+      },
+      "geometry": {
+        "coordinates": [107.54619819815383, -7.010186068600518],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sadu"
+      },
+      "geometry": {
+        "coordinates": [107.510219430581, -7.034948620172003],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "panyirapan"
+      },
+      "geometry": {
+        "coordinates": [107.52544143443117, -7.0398861570745055],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nengkelan"
+      },
+      "geometry": {
+        "coordinates": [107.4639488377693, -7.063049311032344],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sukawening"
+      },
+      "geometry": {
+        "coordinates": [107.47556653085684, -7.065703584063073],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pabrik lima"
+      },
+      "geometry": {
+        "coordinates": [107.55294162549859, -7.007252648172766],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sma negri 1 margahayu"
+      },
+      "geometry": {
+        "coordinates": [107.56845229511771, -6.97652064535221],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kantor kecamatan soreang"
+      },
+      "geometry": {
+        "coordinates": [107.51664118829626, -7.0274976190627285],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jatisari"
+      },
+      "geometry": {
+        "coordinates": [107.52481623715033, -6.9811013006079605],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rs unggul medika"
+      },
+      "geometry": {
+        "coordinates": [107.54891762225532, -6.970341612137716],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kiangroke"
+      },
+      "geometry": {
+        "coordinates": [107.56879937643839, -7.047074336498611],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cangkuang wetan"
+      },
+      "geometry": {
+        "coordinates": [107.6035589131759, -6.977126137173627],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rancamanyar"
+      },
+      "geometry": {
+        "coordinates": [107.60869880826948, -7.0118058650819535],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sukamenak"
+      },
+      "geometry": {
+        "coordinates": [107.5841912105239, -6.976174997957685],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cangkuang kulon"
+      },
+      "geometry": {
+        "coordinates": [107.59336103441558, -6.976284708551816],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cibaduyut wetan"
+      },
+      "geometry": {
+        "coordinates": [107.60281039693291, -6.964709891458426],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "klinik airin"
+      },
+      "geometry": {
+        "coordinates": [107.55536604183084, -6.994001699636456],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pasar"
+      },
+      "geometry": {
+        "coordinates": [107.53697521290258, -6.990713956791595],
+        "type": "Point"
+      }
+    }
+  ]
+}
